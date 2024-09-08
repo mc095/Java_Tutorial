@@ -20,5 +20,10 @@ public class arithmeticOperators {
 
         // Modulo
         System.out.println(num1 % num2);
+
+        // int / int = int
+        // double / double = double
+        // double or float / int = double
+        // int / double or float = double
     }
 }
